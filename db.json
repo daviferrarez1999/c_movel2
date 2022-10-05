@@ -23,7 +23,7 @@
 		{
 			"id": 5,
 			"titulo": "Manaus"
-		},
+		}
 		
 
 ],
@@ -62,7 +62,7 @@
 			"titulo": "Teatro Amazonas",
 			"descricao": "Teatro com estilo renascentista, eleito pela revista CARAS como uma das sete maravilhas brasileiras e tombado pelo IPHAN como Patrimonio Historico Nacional",
 			"id_cidade": 5
-		},
+		}
 ],		
 		
 	"perfil": [
@@ -72,7 +72,7 @@
 			"idade": 40,
 			"sexo": "Masculino",
 			"data_de_nascimento": 20121981
-		},
+		}
 		
 ],		
 	"visitas": [
@@ -82,6 +82,6 @@
 			"id_perfil": 6,
 			"comentarios": "Vista magnifica para a cidade do Rio de Janeiro, obra majestosa e reconhecida ao redor do mundo. Excelente monumento!",
 			"data": 29092022
-		},
+		}
 		
 ]}
