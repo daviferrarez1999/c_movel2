@@ -64,16 +64,7 @@
 			"id_cidade": 5
 		}
 ],
-	"perfil": [
-		{
-			"id": 6,
-			"nome": "Joao da Silva",
-			"idade": 40,
-			"sexo": "Masculino",
-			"data_de_nascimento": 20121981
-		},
-		
-]		
+	
 	
 		
 	}
