@@ -51,6 +51,54 @@
          "titulo":"Teatro Amazonas",
          "descricao":"Teatro com estilo renascentista, eleito pela revista CARAS como uma das sete maravilhas brasileiras e tombado pelo IPHAN como Patrimonio Historico Nacional",
          "id_cidade":5
+      },
+      {
+         "id":6,
+         "titulo":"Estadio do Maracana",
+         "descricao":"Estadio mundialmente conhecido, palco de duas finais de Copa do Mundo e das cerimônias de abertura e encerramento dos Jogos Olimpicos de 2016",
+         "id_cidade":1
+      },
+      {
+         "id":7,
+         "titulo":"Museu de Arte de Sao Paulo Assis Chateaubriand",
+         "descricao":"Importante instituição cultural brasileira que abriga uma coleção de obras iconicas da America Latina",
+         "id_cidade":2
+      },
+      {
+         "id":8,
+         "titulo":"Elevador Lacerda",
+         "descricao":"Primeiro elevador urbano do mundo, possui estilo art deco e liga as partes alta e baixa de Salvador",
+         "id_cidade":3
+      },
+      {
+         "id":9,
+         "titulo":"Museu Oscar Niemeyer",
+         "descricao":"Tambem conhecido como Museu do Olho devido ao seu formato, possui uma area de 35 mil metros quadrados, dois quais 17 mil sao dedicados a exposicoes",
+         "id_cidade":4
+      },
+      {
+         "id":10,
+         "titulo":"Encontro das Aguas",
+         "descricao":"Fenomeno onde as aguas dos rios Negro e Solimoes se encontram, nao se misturando devido as diferencas entre a composicao quimica, temperatura e velocidade dos dois rios",
+         "id_cidade":5
+      },
+      {
+         "id":11,
+         "titulo":"Praia de Copacabana",
+         "descricao":"Famosa praia carioca com extensa faixa de areia, quiosques, calcadao movimentado e ciclovia, alem de contar com um dos reveillons mais conhecidos do mundo",
+         "id_cidade":1
+      },
+      {
+         "id":12,
+         "titulo":"Museu do Ipiranga",
+         "descricao":"Importante simbolo da independencia do Brasil, possui um grande acervo de objetos, mobiliario e obras de arte com relevancia historica, especialmente na epoca da independencia brasileira",
+         "id_cidade":2
+      },
+      {
+         "id":13,
+         "titulo":"Farol da Barra",
+         "descricao":"Segundo sistema de operacao nautica a entrar em operacao no Brasil, foi originalmente construido na decada de 1690, e sua torre atual foi terminada em 1839",
+         "id_cidade":3
       }
    ]
 }
