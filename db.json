@@ -26,79 +26,105 @@
          "id":1,
          "titulo":"Cristo Redentor",
          "descricao":"Estatua de Jesus Cristo com 48 metros de altura, marco cultural com vista para a Cidade Maravilhosa e acessivel por trem",
-         "idcidade":1
+         "idcidade":1,
+         "latitude":-22.951804,
+         "longitude":-43.210760
       },
       {
          "id":2,
          "titulo":"Parque do Ibirapuera",
          "descricao":"Centro paulistano de cultura e lazer, que conta com museus, planetario, auditorios, ciclovias e quadras",
-         "idcidade":2
+         "idcidade":2,
+         "latitude":-23.587416,
+         "longitude":-46.657634
       },
       {
          "id":3,
          "titulo":"Pelourinho",
          "descricao":"Bairro com ruas estreitas de paralelepipedo que contem lojas de souvenirs afro-baianos, bares, restaurantes, museus, teatros, igrejas e pracas cheias de musicos e dancarinos, com destaque para o grupo Olodum",
-         "idcidade":3
+         "idcidade":3,
+         "latitude":-12.973637,
+         "longitude":-38.509720
       },
       {
          "id":4,
          "titulo":"Jardim Botanico",
          "descricao":"Jardim com inumeros vegetais do Brasil e de outros paises, que possui uma estufa, um espaco cultural, museu botanico e jardim das sensacoes, que e um local onde os visitantes tem seus sentimentos tentados, atraves do contato direto com plantas de diferentes formas, texturas e aromas",
-         "idcidade":4
+         "idcidade":4,
+         "latitude":-25.442558,
+         "longitude":-49.241098
       },
       {
          "id":5,
          "titulo":"Teatro Amazonas",
          "descricao":"Teatro com estilo renascentista, eleito pela revista CARAS como uma das sete maravilhas brasileiras e tombado pelo IPHAN como Patrimonio Historico Nacional",
-         "idcidade":5
+         "idcidade":5,
+         "latitude":-3.130289,
+         "longitude":-60.023414
       },
       {
          "id":6,
          "titulo":"Estadio do Maracana",
          "descricao":"Estadio mundialmente conhecido, palco de duas finais de Copa do Mundo e das cerimônias de abertura e encerramento dos Jogos Olimpicos de 2016",
-         "idcidade":1
+         "idcidade":1,
+         "latitude":-22.912109,
+         "longitude":-43.230156
       },
       {
          "id":7,
          "titulo":"Museu de Arte de Sao Paulo Assis Chateaubriand",
          "descricao":"Importante instituição cultural brasileira que abriga uma coleção de obras iconicas da America Latina",
-         "idcidade":2
+         "idcidade":2,
+         "latitude":-23.561414,
+         "longitude":-46.655882 
       },
       {
          "id":8,
          "titulo":"Elevador Lacerda",
          "descricao":"Primeiro elevador urbano do mundo, possui estilo art deco e liga as partes alta e baixa de Salvador",
-         "idcidade":3
+         "idcidade":3,
+         "latitude":-12.974426,
+         "longitude":-38.513023
       },
       {
          "id":9,
          "titulo":"Museu Oscar Niemeyer",
          "descricao":"Tambem conhecido como Museu do Olho devido ao seu formato, possui uma area de 35 mil metros quadrados, dois quais 17 mil sao dedicados a exposicoes",
-         "idcidade":4
+         "idcidade":4,
+         "latitude":-25.410103,
+         "longitude":-49.267193
       },
       {
          "id":10,
          "titulo":"Encontro das Aguas",
          "descricao":"Fenomeno onde as aguas dos rios Negro e Solimoes se encontram, nao se misturando devido as diferencas entre a composicao quimica, temperatura e velocidade dos dois rios",
-         "idcidade":5
+         "idcidade":5,
+         "latitude":-3.136667,
+         "longitude":-59.904722
       },
       {
          "id":11,
          "titulo":"Praia de Copacabana",
          "descricao":"Famosa praia carioca com extensa faixa de areia, quiosques, calcadao movimentado e ciclovia, alem de contar com um dos reveillons mais conhecidos do mundo",
-         "idcidade":1
+         "idcidade":1,
+         "latitude":-22.973873,
+         "longitude":-43.185310
       },
       {
          "id":12,
          "titulo":"Museu do Ipiranga",
          "descricao":"Importante simbolo da independencia do Brasil, possui um grande acervo de objetos, mobiliario e obras de arte com relevancia historica, especialmente na epoca da independencia brasileira",
-         "idcidade":2
+         "idcidade":2,
+         "latitude":-23.585578,
+         "longitude":-46.609679
       },
       {
          "id":13,
          "titulo":"Farol da Barra",
          "descricao":"Segundo sistema de operacao nautica a entrar em operacao no Brasil, foi originalmente construido na decada de 1690, e sua torre atual foi terminada em 1839",
-         "idcidade":3
+         "idcidade":3,
+         "latitude":-22.951804,
+         "longitude":-43.210760
       }
    ]
 }
