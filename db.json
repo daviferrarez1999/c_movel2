@@ -2,23 +2,23 @@
    "cidades":[
       {
          "id":1,
-         "titulo":"Rio de Janeiro"
+         "titulo":"Rio de Janeiro-RJ"
       },
       {
          "id":2,
-         "titulo":"Sao Paulo"
+         "titulo":"Sao Paulo-SP"
       },
       {
          "id":3,
-         "titulo":"Salvador"
+         "titulo":"Salvador-BA"
       },
       {
          "id":4,
-         "titulo":"Curitiba"
+         "titulo":"Curitiba-PR"
       },
       {
          "id":5,
-         "titulo":"Manaus"
+         "titulo":"Manaus-AM"
       }
    ],
    "atracoes":[
